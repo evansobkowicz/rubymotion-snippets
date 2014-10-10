@@ -4,7 +4,7 @@ A collection of RubyMotion code to do fun and useful things!
 
 ### Notes
 
-- this is not a RubyMotion app, just a collection of code snippets to be used in RubyMotion projects.
+This is not a RubyMotion app, just a collection of code snippets to be used in RubyMotion projects.
 
 ## Contributing
 
